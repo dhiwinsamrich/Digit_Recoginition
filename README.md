@@ -78,4 +78,4 @@ This project implements a neural network-based digit recognition system using th
 MIT License
 
 ## Author
-[Your Name]
+DHIWIN SAMRICH
